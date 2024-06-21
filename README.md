@@ -42,12 +42,14 @@ Runtime: 112 to 120 minutes
 Average cost: $155.73 millions  
 
 ## Contact
-For contact with the authors of the project, please feel free to add us on LinkedIn and message us or check out our other projects.
-LinkedIn: Cayke Felipe dos Anjos
-GitHub: Cayke Felipe dos Anjos
-LinkedIn: Dolgor Purbueva
-GitHub: Dolgor PurbuevaNext Steps  
+
+* LinkedIn: Cayke Felipe dos Anjos
+* GitHub: Cayke Felipe dos Anjos
+* LinkedIn: Dolgor Purbueva
+* GitHub: Dolgor Purbueva
+
+## Next steps
 For further steps we recommend expanding analysis into several directions:  
-Explore data on profits and movie perfomance on streaming services.  
-Add budgets spent on marketing.   
+* Explore data on profits and movie perfomance on streaming services.  
+* Add budgets spent on marketing.   
 
