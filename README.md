@@ -15,6 +15,12 @@ Questions we tried to answer with analysis:
 We used datasets from Rotten Tomatoes, TheMovieDB, Bom Office Mojo, IMDB and The Numbers. Each dataset is of different size and contains different data catecories which might be seen as a limitation. For every question we answer we choose the most relevant dataset or merge some of them together for a fuller picture.  
 For budget related analysis we used IMDB and The Numbers. TheMovieDD dataset was used to explore movie ratings and popularity.  
 
+<img src="images/vis1.png" alt="Alt text" width="1200"/>
+
+<img src="images/vis2.png" alt="Alt text" width="1200"/>
+
+<img src="images/vis3.png" alt="Alt text" width="1200"/>
+
 ## Recommendations  
 **Low Risk:**
 Genre: Horror 
